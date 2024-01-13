@@ -1,0 +1,1 @@
+Open the project in Pycharm and install the necessary libraries. The telegram username of the bot is https://t.me/wikiarticlesearchbot. You have to run the program in PyCharm so you can test it. It gives you articles based on your message.
